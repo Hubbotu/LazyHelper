@@ -222,3 +222,7 @@ L["SettingsPanel_ViewSettings_UIScale_default"] = "Лучший"
 L["SettingsPanel_ViewSettings_UIScale_slider"] = "Настройка"
 L["SettingsPanel_ViewSettings_UIScale_label"] = "Масштаб интерфейса"
 L["SettingsPanel_ViewSettings_UIScale_desc"] = "Изменить масштаб интерфейса"
+
+L["SettingsPanel_Menu_Frames"] = "Фреймы"
+L["SettingsPanel_Menu_Tooltip"] = "Подсказки"
+L["SettingsPanel_Menu_ViewSettings"] = "Просмотр настроек"
