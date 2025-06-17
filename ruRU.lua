@@ -5,7 +5,11 @@ local addonName, LazyHelper = ...
 local function localeFunc(L, key) return key end
 local L = setmetatable({}, {__index = localeFunc})
 LazyHelper.L = L
---Translator ZamestoTV
+
+--------------------------------------------------------------------
+-- Thanks to ZamestoTV for the Russian translation
+--------------------------------------------------------------------
+
 L["greyitemssold"] = "Вы продали серые предметы за %s"
 L["repairedfor"] = "Вы отремонтировали свои предметы за %s"
 L["Initialized"] = "Инициализировано"
@@ -57,13 +61,13 @@ L["SettingsPanel_ItemRelated_SellJunk_desc"] = "Автоматически пр�
 L["SettingsPanel_ItemRelated_BuyReagents"] = "Покупать реагенты"
 L["SettingsPanel_ItemRelated_BuyReagents_desc"] = "Автоматически покупать отслеживаемые реагенты у торговцев"
 
-L["SettingsPanel_GroupInstance"] = "Связанное с группами и инстансами"
+L["SettingsPanel_GroupInstance"] = "Связанное с группами и подземельями"
 L["SettingsPanel_GroupInstance_NamePlates"] = "Таблички с именами"
-L["SettingsPanel_GroupInstance_NamePlates_desc"] = "Автоматически отключать таблички с именами союзников в инстансах"
+L["SettingsPanel_GroupInstance_NamePlates_desc"] = "Автоматически отключать таблички с именами союзников в подземельях"
 L["SettingsPanel_GroupInstance_CombatLogging"] = "Журнал боя"
-L["SettingsPanel_GroupInstance_CombatLogging_desc"] = "Автоматически включать журнал боя в инстансах"
+L["SettingsPanel_GroupInstance_CombatLogging_desc"] = "Автоматически включать журнал боя в подземелье"
 L["SettingsPanel_GroupInstance_MasterLoot"] = "Проверка мастер-лута"
-L["SettingsPanel_GroupInstance_MasterLoot_desc"] = "Проверять мастер-лут при входе в рейдовый инстанс"
+L["SettingsPanel_GroupInstance_MasterLoot_desc"] = "Проверять мастер-лут при входе в рейд"
 L["SettingsPanel_GroupInstance_MapClasscolors"] = "Цвета классов на карте"
 L["SettingsPanel_GroupInstance_MapClasscolors_desc"] = "Показывать цвета классов на карте для членов группы"
 L["SettingsPanel_GroupInstance_DisableErrors"] = "Отключить ошибки"
@@ -82,7 +86,7 @@ L["SettingsPanel_Fishing_DisableNamePlates"] = "Отключить таблич�
 L["SettingsPanel_Fishing_DisableNamePlates_desc"] = "Отключить таблички с именами в режиме рыбалки"
 
 L["SettingsPanel_Looting"] = "Сбор добычи"
-L["SettingsPanel_Looting_GreedRoll"] = "Авто жадность/трансмог"
+L["SettingsPanel_Looting_GreedRoll"] = "Авто жадность / трансмог"
 L["SettingsPanel_Looting_GreedRoll_desc"] = "Автоматически выбирать жадность/трансмог для определенных предметов"
 L["SettingsPanel_Looting_GreedRoll_dropdown_1"] = "Ничего"
 L["SettingsPanel_Looting_GreedRoll_dropdown_1_desc"] = "Не выбирать жадность ни для чего"
