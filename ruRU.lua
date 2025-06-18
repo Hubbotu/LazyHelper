@@ -230,3 +230,37 @@ L["SettingsPanel_ViewSettings_UIScale_desc"] = "Изменить масштаб 
 L["SettingsPanel_Menu_Frames"] = "Фреймы"
 L["SettingsPanel_Menu_Tooltip"] = "Подсказки"
 L["SettingsPanel_Menu_ViewSettings"] = "Просмотр настроек"
+
+L["SettingsPanel_ConsumableTracker"] = "Отслеживание расходуемых материалов"
+L["SettingsPanel_ConsumableTracker_desc"] = "Реагенты и расходуемые материалы для отслеживания"
+L["SettingsPanel_ConsumableTracker_reagent"] = "реагент"
+
+L["SettingsPanel_BlizzardFrames_ScaleWorldmap"] = "Масштаб карты мира"
+L["SettingsPanel_BlizzardFrames_ScaleWorldmap_desc"] = "Уменьшить масштаб карты мира"
+L["SettingsPanel_BlizzardFrames_RemoveBuffStyling"] = "Убрать стиль баффов"
+L["SettingsPanel_BlizzardFrames_RemoveBuffStyling_desc"] = "Убрать стандартное оформление баффов"
+L["SettingsPanel_BlizzardFrames_AddBuffColor"] = "Цвет баффов"
+L["SettingsPanel_BlizzardFrames_AddBuffColor_desc"] = "Добавить зеленую рамку вокруг ваших собственных баффов"
+
+L["SettingsPanel_Frames_Unlockquest"] = "Разблокировать окно заданий"
+L["SettingsPanel_Frames_Unlockquest_desc"] = "Сделать окно заданий перемещаемым"
+L["SettingsPanel_Frames_Unlockbuff"] = "Разблокировать окно баффов"
+L["SettingsPanel_Frames_Unlockbuff_desc"] = "Сделать окно баффов перемещаемым (это может быть немного нестабильно)"
+
+L["SettingsPanel_Frames_Buff"] = "Баффы"
+L["SettingsPanel_Frames_Buff_default"] = "По умолчанию"
+L["SettingsPanel_Frames_Buff_slider"] = "Масштаб"
+L["SettingsPanel_Frames_Buff_desc"] = "Изменить масштаб окна баффов"
+
+L["SettingsPanel_Frames_Minimap"] = "Миникарта"
+L["SettingsPanel_Frames_Minimap_default"] = "По умолчанию"
+L["SettingsPanel_Frames_Minimap_slider"] = "Масштаб"
+L["SettingsPanel_Frames_Minimap_desc"] = "Изменить масштаб миникарты"
+
+L["SettingsPanel_Frames_Achievements"] = "Достижения"
+L["SettingsPanel_Frames_Achievements_ReportGuild"] = "Чат гильдии"
+L["SettingsPanel_Frames_Achievements_ReportGuild_desc"] = "Оповещать о достижениях в чате гильдии"
+L["SettingsPanel_Frames_Achievements_TotalPoints"] = "Общее количество очков"
+L["SettingsPanel_Frames_Achievements_TotalPoints_desc"] = "Добавить общее количество очков в оповещение"
+L["SettingsPanel_Frames_Achievements_Sound"] = "Воспроизвести звук"
+L["SettingsPanel_Frames_Achievements_Sound_desc"] = "Воспроизвести старый звук при получении достижения"
