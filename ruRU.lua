@@ -233,7 +233,8 @@ L["SettingsPanel_Menu_ViewSettings"] = "Просмотр настроек"
 
 L["SettingsPanel_ConsumableTracker"] = "Отслеживание расходуемых материалов"
 L["SettingsPanel_ConsumableTracker_desc"] = "Реагенты и расходуемые материалы для отслеживания"
-L["SettingsPanel_ConsumableTracker_reagent"] = "реагент"
+L["SettingsPanel_ConsumableTracker_reagent"] = "Реагент"
+L["SettingsPanel_ConsumableTracker_reagent_desc"] = "Активировать реагент"
 
 L["SettingsPanel_BlizzardFrames_ScaleWorldmap"] = "Масштаб карты мира"
 L["SettingsPanel_BlizzardFrames_ScaleWorldmap_desc"] = "Уменьшить масштаб карты мира"
